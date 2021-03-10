@@ -3,6 +3,7 @@
 // 
 // This is example code provided by NeuroSky, Inc. and is provided
 // license free.
+// Adopted by Idan Gal-Shohet for Futures 
 ////////////////////////////////////////////////////////////////////////
 
 #define LED 13
